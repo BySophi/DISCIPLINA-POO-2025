@@ -57,15 +57,7 @@ Este repositório contém a **resolução completa** (📥 *exercícios resolvid
 - 🧮 Lógica de Programação
 - 💻 Implementação sugerida em **Python, C ou Java**
 
----
 
-## 👨‍🎓 Autor
-
-**João Pedro Abreu da Costa**  
-🎓 Estudante de Informática – IFCE  
-📫 [Entre em contato](joao.costa@aluno.ifce.edu.br)
-
----
 
 ## ⭐ Quer Contribuir?
 
